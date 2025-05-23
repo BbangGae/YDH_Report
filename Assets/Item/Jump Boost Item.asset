@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48eab0e2d6e3442ccba70ac40c7a3c51, type: 3}
+  m_Name: Jump Boost Item
+  m_EditorClassIdentifier: 
+  itemName: "\uC810\uD551\uB2F9\uADFC"
+  description: "\uBA39\uC73C\uBA74 5\uCD08\uAC04 \uC810\uD504\uB825\uC774 \uC0C1\uC2B9\uD55C\uB2E4."
+  icon: {fileID: 0}
+  jumpMultiplier: 4
+  duration: 5
